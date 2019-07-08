@@ -1,0 +1,25 @@
+1. feladat:
+A POSIX a UNIX operációs rendszer szabványainak gyűjteménye.
+
+2. feladat:
+Az X11 egy hálózati protokoll.
+
+3. feladat:
+stdin a standard input (billentyűzet)
+stdout a standard output (monitor, képernyő)
+
+4. feladat:
+A daemonok háttérben futó folyamatok, rendszerfolyamatok vagy kiszolgáló folyamatok
+
+5. feladat:
+/bin - felhasználói binárisok
+/etc - konfigurációs fájlok
+/usr - felhasználói programok
+/home - felhasználó saját könyvtára
+
+6. feladat:
+A ponttal kezdődő fájlok rejtettek.
+
+7. feladat:
+relatív: cicak/kiscica1
+abszolút: /home/dori/cica/kiscica1
